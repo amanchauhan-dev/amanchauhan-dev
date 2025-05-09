@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there! 👋 I'm Aman Chauhan
 
-<!--
-**amanchauhan-dev/amanchauhan-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A JavaScript developer with a passion for crafting dynamic and interactive applications.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I thrive on turning ideas into reality through clean, efficient, and user-friendly code. My expertise lies in building robust web applications.
+
+## 🛠️ Tech Stack
+
+I'm proficient in a variety of technologies, including:
+
+* **Languages:** JavaScript, TypeScript
+* **Frontend:** React, Next.js
+* **Backend:** Node.js, Express.js
+* **Database:** * **Tools:** Git, MongoDB, SQL
+
+
+## 📈 Contributions
+
+* 128+ contributions in the last year
+
+##  Let's Connect
+
+Feel free to reach out to me through the following channels:
+
+* [Gmail]([invalid URL removed])
+* [LinkedIn]([invalid URL removed])
+
+I'm always open to collaborating on exciting projects and expanding my network.
+
+## ✨  A Glimpse of My GitHub
+
+ [![Aman Chauhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amanchauhan-dev&show_icons=true&theme=dark)](https://github.com/amanchauhan-dev)
+
+Thank you for visiting my profile!
