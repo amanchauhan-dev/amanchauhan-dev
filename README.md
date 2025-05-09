@@ -24,8 +24,8 @@ I'm proficient in a variety of technologies, including:
 
 Feel free to reach out to me through the following channels:
 
-* [mailto:amanchauhan0435@gmail.com]([invalid URL removed])
-* [https://aman-chauhan.vercel.app/]([invalid URL removed])
+* [mailto:amanchauhan0435@gmail.com] ([invalid URL removed])
+* [https://aman-chauhan.vercel.app] ([invalid URL removed])
 
 I'm always open to collaborating on exciting projects and expanding my network.
 
