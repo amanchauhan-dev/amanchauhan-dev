@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Django+%7C+FastAPI+%7C+Express.js;AI%2FML+Enthusiast;Always+Curious+%7C+Always+Building+🚀" alt="Typing SVG" />
 </p>
